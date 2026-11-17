@@ -328,3 +328,5 @@ Stricter 3NF — every determinant must be a candidate key.
 
 Example: If City determines Pin, and Pin determines City (one-to-one), one of them isnt a candidate key → BCNF violation → split.
 -------------------------------------------------------------------------------
+
+
